@@ -38,40 +38,11 @@
 
 ---
 
-## 📂 Featured Projects
-
-- 🎬 **[Reelify](https://github.com/YOUR_USERNAME/reelify)** — Movie Recommendation App *(React + Spring Boot + PostgreSQL)*  
-  Led front-end architecture, reusable components, responsive UI & poster fallbacks.
-
-- 💸 **[Tenmo](https://github.com/YOUR_USERNAME/tenmo)** — P2P Payment App *(Java + REST API)*  
-  Implemented secure transfers, account management, and error handling.
-
-- 🛒 **[Vendo-Matic 800](https://github.com/YOUR_USERNAME/vendo-matic-800)** — Vending Machine Simulator *(Java OOP)*  
-  Object-oriented design, file I/O, unit testing.
-
-  View More [🔗 Repos](https://github.com/YOUR_USERNAME?tab=repositories)
-
----
-
-## 🌱 Currently Learning
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
-
----
-
 ## 🐾 My Furry Teammates
 
 | Angelina 🐱 | Angelo 🐱 |
 |---|---|
 | Shy but affectionate, naps everywhere | Curious explorer, inspects every deploy |
-
----
-
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ninaliuvisualengineer/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:liunina1960426@gmail.com)
 
 ---
 
